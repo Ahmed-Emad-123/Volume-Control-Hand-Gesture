@@ -1,5 +1,4 @@
 # Volume-Control-Hand-Gesture
-# Self-Balancing-Robot
 ## Basic Overview:
 This repository contains the code, instructions, and resources for building a volume control application using OpenCV, MediaPipe, and an external library for controlling the system volume. 
 The application utilizes hand gesture recognition to adjust the volume based on user input.
